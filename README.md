@@ -10,8 +10,6 @@ Habilidades demostradas:
 - Generación de recomendaciones basadas en datos (score ponderado de restaurantes).
 - Manejo ético de datos (anonymization).
 
-Para reclutadores: Este proyecto muestra mi capacidad para manejar datos reales/sintéticos, generar insights de negocio y estructurar código reproducible. Contacto: [Tu email o LinkedIn].
-
 ## Instalación
 1. Clona el repo: `git clone https://github.com/tu-usuario/marketing-segmentation-restaurants.git`
 2. Instala dependencias: `pip install -r requirements.txt`
